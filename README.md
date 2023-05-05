@@ -18,7 +18,7 @@ Making museum page for practicing Bootstrap.<br>
   
 </p>
 
-## Changed from original source
+## What's changed from original source
 
 - Change images top_left, bottom_left or top_right, bottom_right borders to be rounded.
 - Change images, colors and background colors.
